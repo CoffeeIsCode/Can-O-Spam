@@ -1,10 +1,10 @@
-# Can-O-Spam
+# Can-O-Spam ReadMe File #
 
-## Slogan: "Friend or Foe, they wont need an inbox no more." 
+## Welcome to the Can-O-Spam README File ##
 
-## Welcome to the Can-O-Spam README File
+#### Slogan: "Friend or Foe, they wont need an inbox no more." ####
 
-## How It Works
+## How It Works ##
 Can-O-Spam works by signing email address up for a long line of newsletters and other promotional junk, that in small doses is probably very useful information, but this isn't that. 
 1. The victims account is submitted to the Can-O-Spam network by an annomous user where no other session information is stored. 
 2. Our server then builds a queue of random newsletters to signed up to.
@@ -16,6 +16,7 @@ Basic System Features
 
 We also plan to send emails from systems that don't believe in an opt-out option and even if they do there are going to be reciepients for some pretty interesting emails as a resualt.
 
-## Easy to use systems for filling someones email address. Becomes more aggressive and malicious overtime. 
-## The current system has obtained 0 email addressess and has signed them up for 0 monthly newsletters.
+## Easy to use systems for filling someones email address. Becomes more aggressive and malicious overtime. ##
+## The current system has obtained 0 email addressess and has signed them up for 0 monthly newsletters. ##
+
 Note: This system doesn't send any newsletters, but manipulates websites that offer such services.
